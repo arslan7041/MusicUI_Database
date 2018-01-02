@@ -1,1 +1,1 @@
-# MusicUI_Database
+A GUI music database
